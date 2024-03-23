@@ -29,6 +29,6 @@ export default defineConfig({
     }
   },
   scopedStyleStrategy: "where",
-  output: "static",
+  output: "server",
   adapter: cloudflare()
 });
