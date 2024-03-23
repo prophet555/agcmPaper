@@ -6,11 +6,9 @@ import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
 
-import cloudflare from "@astrojs/cloudflare";
-
 // https://astro.build/config
 export default defineConfig({
-  site: SITE.website,
+  site: 'https://agcm.pages.dev/',
   integrations: [tailwind({
     applyBaseStyles: false
   }), react(), sitemap()],
@@ -29,6 +27,4 @@ export default defineConfig({
     }
   },
   scopedStyleStrategy: "where",
-  output: "server",
-  adapter: cloudflare()
 });
