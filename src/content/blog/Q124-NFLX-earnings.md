@@ -2,7 +2,7 @@
 
 author: mike
 
-pubDatetime: '[[2024-04-20]]'
+pubDatetime: '2024-04-20'
 
 modDatetime:
 
