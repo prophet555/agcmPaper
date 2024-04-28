@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Snap-on Inc 
-featured: False
-modDatetime: 2024-04-28T19:03:01.675691Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.675691Z
-slug: q124-sna-earnings
-tags: ['transcripts', 'earnings', 'machinery']
+pubDatetime: 2024-04-28 19:03:01.675691
+modDatetime: 2024-04-28 19:03:01.675691
 title: Q124 SNA earnings
+slug: q124-sna-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- machinery
+description: Earnings summary for Q124 Snap-on Inc
 ---
-
 Earnings Results:
 • Sales of $1.12 billion, flat compared to $1.183 billion last year
 • Organic sales declined 0.8%

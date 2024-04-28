@@ -1,15 +1,18 @@
 ---
 author: mike
-description: Earnings summary for Q124 Spotify 
-featured: False
-modDatetime: 2024-04-28T19:03:01.670690Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.670690Z
-slug: q124-spot-earnings
-tags: ['transcripts', 'earnings', 'music', 'media']
+pubDatetime: 2024-04-28 19:03:01.670690
+modDatetime: 2024-04-28 19:03:01.670690
 title: Q124 SPOT earnings
+slug: q124-spot-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- music
+- media
+description: Earnings summary for Q124 Spotify
 ---
-
 Earnings Results:
 • Revenue grew 21% year-over-year on a constant currency basis to €3.6 billion
 • Premium ARPU growth accelerated to 7% year-over-year on a currency-neutral basis

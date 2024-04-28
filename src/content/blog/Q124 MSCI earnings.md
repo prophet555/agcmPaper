@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 MSCI Inc
-featured: False
-modDatetime: 2024-04-28T19:03:01.652685Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.652685Z
-slug: q124-msci-earnings
-tags: ['transcripts', 'earnings', 'financials']
+pubDatetime: 2024-04-28 19:03:01.652685
+modDatetime: 2024-04-28 19:03:01.652685
 title: Q124 MSCI earnings
+slug: q124-msci-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- financials
+description: Earnings summary for Q124 MSCI Inc
 ---
 # Q124 MSCI earnings
 
@@ -33,4 +36,3 @@ Notable quotes:
 "Our all-weather franchise supports our financial resilience. Our diverse mix of clients, products and geographies helped stabilize our performance in difficult environments as we experienced in the first quarter." - Henry Fernandez, Chairman and CEO
 
 "To the extent and when the pressures begin to alleviate that should translate through into, I think, encouraging growth for us. And as I alluded to in the last question, it's not just in our core products, but we do see opportunities in newer solutions that we have as well as in many of these client segments that are a little less exposed to some of the cyclical dynamics that we're talking about." - Andrew Wiechmann, CFO
-

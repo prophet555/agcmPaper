@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Pepsi 
-featured: False
-modDatetime: 2024-04-28T19:03:01.664688Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.664688Z
-slug: q124-pep-earnings
-tags: ['transcripts', 'earnings', 'beverages']
+pubDatetime: 2024-04-28 19:03:01.664688
+modDatetime: 2024-04-28 19:03:01.664688
 title: Q124 PEP earnings
+slug: q124-pep-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- beverages
+description: Earnings summary for Q124 Pepsi
 ---
-
 Earnings Results:
 • Strong international profit results for the third quarter in a row
 • Frito-Lay North America (FLNA) op margins were soft in the quarter
@@ -31,4 +33,3 @@ Notable quotes:
 • "Our innovation is strong. Our ability to understand local rituals and local food and beverage occasions is better than ever." - Ramon Laguarta
 • "The consumer globally, we think is very resilient. And we see it in, as you saw from our international business performance." - Ramon Laguarta
 • "Europe will be expanding its portfolio along the lines of what the U.S. has been doing, which will give us additional consumers and additional penetration in households across developed and developing markets." - Ramon Laguarta
-

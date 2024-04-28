@@ -1,15 +1,18 @@
 ---
 author: mike
-description: Earnings summary for Q124 Omnicom 
-featured: False
-modDatetime: 2024-04-28T19:03:01.702696Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.702696Z
-slug: q124-omc-earnings
-tags: ['transcripts', 'earnings', 'media', 'advertising']
+pubDatetime: 2024-04-28 19:03:01.702696
+modDatetime: 2024-04-28 19:03:01.702696
 title: Q124 OMC earnings
+slug: q124-omc-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- media
+- advertising
+description: Earnings summary for Q124 Omnicom
 ---
-
 Earnings Results:
 - Organic growth was 4% in Q1 2024, with strong performance in advertising/media and precision marketing. 
 - EBITDA margin was 13.8% and operating margin was 13.2%.
@@ -32,4 +35,3 @@ Market Conditions and Sentiment:
 - The increased guidance and commentary point to a favorable outlook, with Omnicom well-positioned to gain share in a dynamic but growing market for marketing services and technology.
 
 Overall, the sentiment from Omnicom's executives was positive, highlighting the company's strategic moves (e.g. Flywheel), investments in high-growth capabilities, and improving growth trajectory, while acknowledging the uncertain macro environment. The increased guidance and multiple growth drivers discussed suggest management has increasing confidence in Omnicom's competitive position and financial outlook.
-

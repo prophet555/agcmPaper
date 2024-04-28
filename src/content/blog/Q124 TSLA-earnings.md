@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Tesla
-featured: False
-modDatetime: 2024-04-28T19:03:01.662687Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.662687Z
-slug: q124-tsla-earnings
-tags: ['transcripts', 'earnings', 'automobiles']
+pubDatetime: 2024-04-28 19:03:01.662687
+modDatetime: 2024-04-28 19:03:01.662687
 title: Q124 TSLA earnings
+slug: q124-tsla-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- automobiles
+description: Earnings summary for Q124 Tesla
 ---
 # Q124 TSLA earnings
 

@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q324 Atlassian
-featured: False
-modDatetime: 2024-04-28T19:03:01.642683Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.642683Z
-slug: q324-team-earnings
-tags: ['transcripts', 'earnings', 'software']
+pubDatetime: 2024-04-28 19:03:01.642683
+modDatetime: 2024-04-28 19:03:01.642683
 title: Q324 TEAM earnings
+slug: q324-team-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- software
+description: Earnings summary for Q324 Atlassian
 ---
 Given your request, I'll provide a structured overview based on the provided details and general understanding of similar reports. Note that specific financial details weren't provided, so I'll generalize where needed.
 

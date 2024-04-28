@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 HCA Healthcare 
-featured: False
-modDatetime: 2024-04-28T19:03:01.631361Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.631361Z
-slug: q124-hca-earnings
-tags: ['transcripts', 'earnings', 'healthcare']
+pubDatetime: 2024-04-28 19:03:01.631361
+modDatetime: 2024-04-28 19:03:01.631361
 title: Q124 HCA earnings
+slug: q124-hca-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- healthcare
+description: Earnings summary for Q124 HCA Healthcare
 ---
 ### Earnings Results
 - **Revenue Growth:** Revenues grew 11.2% over the prior year in the quarter.

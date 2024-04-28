@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Abbott Laboratories 
-featured: False
-modDatetime: 2024-04-28T19:03:01.688693Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.688693Z
-slug: q124-abt-earnings
-tags: ['transcripts', 'earnings', 'healthcare']
+pubDatetime: 2024-04-28 19:03:01.688693
+modDatetime: 2024-04-28 19:03:01.688693
 title: Q124 ABT earnings
+slug: q124-abt-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- healthcare
+description: Earnings summary for Q124 Abbott Laboratories
 ---
-
 Earnings Results:
 • Reported adjusted EPS of $1.03, above analyst consensus estimates
 • Organic sales growth of 10.1% excluding COVID testing-related sales

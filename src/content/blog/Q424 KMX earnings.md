@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q424 CarMax 
-featured: False
-modDatetime: 2024-04-28T19:03:01.711698Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.711698Z
-slug: q424-kmx-earnings
-tags: ['transcripts', 'earnings', 'retail']
+pubDatetime: 2024-04-28 19:03:01.711698
+modDatetime: 2024-04-28 19:03:01.711698
 title: Q424 KMX earnings
+slug: q424-kmx-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- retail
+description: Earnings summary for Q424 CarMax
 ---
-
 Earnings Results:
 - Total sales of $5.6 billion, down 2% YoY driven by lower retail/wholesale prices and lower wholesale volume, partially offset by higher retail volume
 - Net earnings per diluted share of $0.32 vs $0.44 a year ago
@@ -40,4 +42,3 @@ Market Conditions:
 
 Sentiment: 
 The overall sentiment of the call was cautiously optimistic. Management acknowledged challenges remain with consumer affordability and economic uncertainty, leading them to take a conservative approach in extending their long-term unit sales target. However, they highlighted sequential improvements in the business with stable margins, strong CAF performance, and cost management efforts. CarMax seems to be positioning itself well for the long-term through digital investments, growing omnichannel sales, expanding vehicle sourcing, and focusing on profitable market share gains. While near-term demand remains choppy, the company sees positive underlying trends and expects to capitalize as the market recovers.
-

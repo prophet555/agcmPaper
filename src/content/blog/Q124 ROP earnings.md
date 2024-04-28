@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Roper Tech 
-featured: False
-modDatetime: 2024-04-28T19:03:01.623359Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.623359Z
-slug: q124-rop-earnings
-tags: ['transcripts', 'earnings', 'software']
+pubDatetime: 2024-04-28 19:03:01.623359
+modDatetime: 2024-04-28 19:03:01.623359
 title: Q124 ROP earnings
+slug: q124-rop-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- software
+description: Earnings summary for Q124 Roper Tech
 ---
 ### Earnings Results
 

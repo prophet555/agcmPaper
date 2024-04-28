@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Goldman Sachs 
-featured: False
-modDatetime: 2024-04-28T19:03:01.704697Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.704697Z
-slug: q124-gs-earnings
-tags: ['transcripts', 'earnings', 'financials']
+pubDatetime: 2024-04-28 19:03:01.704697
+modDatetime: 2024-04-28 19:03:01.704697
 title: Q124 GS earnings
+slug: q124-gs-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- financials
+description: Earnings summary for Q124 Goldman Sachs
 ---
 # Q124 GS earnings
 
@@ -37,4 +40,3 @@ Sentiment:
 The overall sentiment from Goldman Sachs management on the earnings call was positive. They expressed confidence in the firm's strong Q1 performance, durable client franchises, market positioning, and strategic progress. Optimism was conveyed about the future opportunity set and Goldman's ability to capture wallet share. However, management acknowledged uncertainty around the economic trajectory and highlighted potential headwinds. They aim to balance supporting client activity with prudent risk management.
 
 In summary, Goldman Sachs delivered robust Q1 earnings and sees an attractive environment ahead in markets and banking, though management provided a balanced outlook given macro crosscurrents. The firm is executing on its strategic goals and generating strong Asset Management growth, while making progress on newer initiatives like Transaction Banking and Platform Solutions.
-

@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Teledyne 
-featured: False
-modDatetime: 2024-04-28T19:03:01.660686Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.660686Z
-slug: q124-tdy-teledyne-earnings
-tags: ['transcripts', 'earnings', 'equipment']
+pubDatetime: 2024-04-28 19:03:01.660686
+modDatetime: 2024-04-28 19:03:01.660686
 title: Q124 TDY earnings
+slug: q124-tdy-teledyne-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- equipment
+description: Earnings summary for Q124 Teledyne
 ---
-
 Earnings Results:
 • Record Q1 non-GAAP operating margin, adjusted EPS, and free cash flow
 • Sales impacted by deterioration in some short-cycle instrumentation markets
@@ -37,4 +39,3 @@ Quotes:
 "Orders have been strong for two consecutive quarters with the increase almost entirely due to our longer cycle businesses such as defense and energy." - Robert Mehrabian, Executive Chairman
 
 "In conclusion, orders have been strong for two consecutive quarters with the increase almost entirely due to our longer cycle businesses such as defense and energy. However, given the nature of these businesses, converting much of the greater backlog to sales will not begin until the second half of 2024." - Robert Mehrabian
-

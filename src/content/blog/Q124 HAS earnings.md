@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Hasbro 
-featured: False
-modDatetime: 2024-04-28T19:03:01.655686Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.655686Z
-slug: q124-has-earnings
-tags: ['transcripts', 'earnings', 'toys']
+pubDatetime: 2024-04-28 19:03:01.655686
+modDatetime: 2024-04-28 19:03:01.655686
 title: Q124 HAS earnings
+slug: q124-has-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- toys
+description: Earnings summary for Q124 Hasbro
 ---
-
 Earnings Results:
 • Revenue of $757 million, down 24% year-over-year; down 9% excluding E1 divestiture impact
 • Adjusted operating profit of $149 million with 19.6% operating margin, up 15 points year-over-year 
@@ -33,4 +35,3 @@ Notable quotes:
 "We are applying a franchise-first mindset. We're realizing our brands' potential through licensing with success across digital and consumer products. And we're continuing to invest in innovation across toys and games, appealing to consumers of all ages across play patterns." - Chris Cocks, CEO
 
 "I am pleased with how we executed in the first quarter strength in digital licensing and MAGIC contribute to our profitable business mix while our turnaround efforts in toys started to take shape." - Gina Goetter, CFO
-

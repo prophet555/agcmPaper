@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Blackstone 
-featured: False
-modDatetime: 2024-04-28T19:03:01.693695Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.693695Z
-slug: q124-bx-earnings
-tags: ['transcripts', 'earnings', 'financials']
+pubDatetime: 2024-04-28 19:03:01.693695
+modDatetime: 2024-04-28 19:03:01.693695
 title: Q124 BX earnings
+slug: q124-bx-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- financials
+description: Earnings summary for Q124 Blackstone
 ---
-
 Earnings Results:
 • Distributable earnings of $1.3 billion or $0.98 per common share in Q1 2024
 • Fee-related earnings increased 12% year-over-year to $1.2 billion or $0.95 per share
@@ -30,4 +32,3 @@ Notable Quotes:
 • "Blackstone is highly differentiated in our ability to conceptualize the new business area and transform it into a $100 billion potential opportunity." - Stephen Schwarzman
 • "In real estate, we see shelter costs moderating, contrary to government data. We believe inflation will trend lower this year, although the pace of decline has slowed recently." - Stephen Schwarzman
 • "When looking at the $80 trillion private wealth landscape overall, allocations remain extremely low, and we expect a long runway of growth ahead." - Jon Gray
-

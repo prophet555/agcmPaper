@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Interactive Brokers 
-featured: False
-modDatetime: 2024-04-28T19:03:01.703697Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.703697Z
-slug: q124-ibkr-earnings
-tags: ['transcripts', 'earnings', 'financials']
+pubDatetime: 2024-04-28 19:03:01.703697
+modDatetime: 2024-04-28 19:03:01.703697
 title: Q124 IBKR earnings
+slug: q124-ibkr-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- financials
+description: Earnings summary for Q124 Interactive Brokers
 ---
 # Q124 IBKR earnings
 
@@ -39,4 +42,3 @@ The tone of the call was generally positive, with management expressing optimism
 However, some cautionary points were also raised, such as Thomas Peterffy's comment that rapidly rising margin debt has historically preceded market corrections. The company also continues to face challenges in deploying excess capital via M&A.
 
 Overall, the sentiment was positive regarding IBKR's current strong financial performance and future business prospects, tempered with some near-term caution around market conditions.
-

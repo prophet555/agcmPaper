@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 JetBlue 
-featured: False
-modDatetime: 2024-04-28T19:03:01.668689Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.668689Z
-slug: q124-jblu-earnings
-tags: ['transcripts', 'earnings', 'airlines']
+pubDatetime: 2024-04-28 19:03:01.668689
+modDatetime: 2024-04-28 19:03:01.668689
 title: Q124 JBLU earnings
+slug: q124-jblu-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- airlines
+description: Earnings summary for Q124 JetBlue
 ---
 # Q124 JBLU earnings
 
@@ -34,4 +37,3 @@ Despite the headwinds, JetBlue remains committed to its core geographies, partic
 CEO Joanna Geraghty emphasized the company's focus on returning to profitability: "Make no mistake, our #1 priority is getting this business back to consistent profitability. We were profitable in the month of March, and we're focused on driving sustainable long-term profitability."
 
 President Marty St. George expressed confidence in JetBlue's future: "I see so much opportunity ahead. JetBlue has an exceptional brand, incredibly high-value geographies and a strategy that I'm excited to execute on. Most importantly, we have the industry's best crew members."
-

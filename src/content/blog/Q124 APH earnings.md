@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Amphenol 
-featured: False
-modDatetime: 2024-04-28T19:03:01.658686Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.658686Z
-slug: q124-aph-earnings
-tags: ['transcripts', 'earnings', 'infotech']
+pubDatetime: 2024-04-28 19:03:01.658686
+modDatetime: 2024-04-28 19:03:01.658686
 title: Q124 APH earnings
+slug: q124-aph-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- infotech
+description: Earnings summary for Q124 Amphenol
 ---
 # Q124 APH earnings
 
@@ -36,4 +39,3 @@ Looking ahead, Amphenol expects sales in the range of $3.24 billion to $3.30 bil
 Notable quotes:
 • Adam Norwitt: "I'm extremely proud of our global team of Amphenolians. The company's results this quarter once again reflect the discipline and agility of our entrepreneurial organization who continued to perform very well in the most dynamic of environment."
 • Adam Norwitt on the AI market: "This revolution in AI that we're all living through right now has created a unique opportunity for Amphenol given our leading high-speed and power interconnect products. With machine learning driving a more intensive usage of these highest technology interconnect products, we're very well positioned for the future."
-

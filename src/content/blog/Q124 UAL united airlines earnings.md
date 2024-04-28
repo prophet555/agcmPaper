@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 United Airlines 
-featured: False
-modDatetime: 2024-04-28T19:03:01.663687Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.663687Z
-slug: q124-ual-united-airlines-earnings
-tags: ['transcripts', 'earnings', 'airlines']
+pubDatetime: 2024-04-28 19:03:01.663687
+modDatetime: 2024-04-28 19:03:01.663687
 title: Q124 UAL united airlines earnings
+slug: q124-ual-united-airlines-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- airlines
+description: Earnings summary for Q124 United Airlines
 ---
-
 Earnings Results & Guidance:
 - 9.7% rev increase
 - United delivered a strong Q1, with meaningful year-over-year margin improvement. They reported a pre-tax loss of $79M, which was a $187M improvement over Q1 last year and better than guidance. 
@@ -32,4 +34,3 @@ Aircraft & Fleet:
 
 Overall Sentiment: 
 The tone of the call was quite optimistic. Management expressed strong confidence in United's strategic positioning, demand backdrop, and ability to deliver on its financial targets despite supply chain challenges. They believe United's network strengths, product segmentation, and operational initiatives have created sustainable competitive advantages. The moderated aircraft delivery schedule is seen as a near-term challenge but one United is managing well by reducing costs and capex.
-

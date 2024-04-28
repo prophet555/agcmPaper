@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Chipotle Mexican Grill 
-featured: False
-modDatetime: 2024-04-28T19:03:01.648685Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.648685Z
-slug: q124-cmg-earnings
-tags: ['transcripts', 'earnings', 'restaurants']
+pubDatetime: 2024-04-28 19:03:01.648685
+modDatetime: 2024-04-28 19:03:01.648685
 title: Q124 CMG earnings
+slug: q124-cmg-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- restaurants
+description: Earnings summary for Q124 Chipotle Mexican Grill
 ---
 ### Earnings Results
 - **Sales Growth:** 14% increase year-over-year to reach $2.7 billion.

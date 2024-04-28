@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q324 Paychex 
-featured: False
-modDatetime: 2024-04-28T19:03:01.689693Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.689693Z
-slug: q324-payx-earnings
-tags: ['transcripts', 'earnings', 'services']
+pubDatetime: 2024-04-28 19:03:01.689693
+modDatetime: 2024-04-28 19:03:01.689693
 title: Q324 PAYX earnings
+slug: q324-payx-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- services
+description: Earnings summary for Q324 Paychex
 ---
-
 Earnings Results:
 • Total revenue increased 7% to $1.2 billion in Q3
 • Management Solutions revenue increased 8% to $1.0 billion
@@ -36,4 +38,3 @@ Notable quotes:
 • "The results we delivered this quarter demonstrate our ability to drive profitable growth even in uncertain times." - John Gibson, CEO
 •"We're focused on making the right investments to ensure we're positioned to capture opportunities for long-term growth." - John Gibson
 •"In this post-pandemic era, we are a fundamentally better positioned company. We're more digitally enabled, more agile, more focused on delivering value for our clients." - John Gibson
-

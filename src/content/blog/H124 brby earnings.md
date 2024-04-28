@@ -1,13 +1,17 @@
 ---
 author: mike
-description: Earnings summary for H124 Burberry 
-featured: False
-modDatetime: 2024-04-28T19:03:01.672690Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.672690Z
-slug: h124-brby-earnings
-tags: ['transcripts', 'earnings', 'luxury', 'apparel']
+pubDatetime: 2024-04-28 19:03:01.672690
+modDatetime: 2024-04-28 19:03:01.672690
 title: H124 BRBY earnings
+slug: h124-brby-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- luxury
+- apparel
+description: Earnings summary for H124 Burberry
 ---
 # earnings summary
 Earnings Results:

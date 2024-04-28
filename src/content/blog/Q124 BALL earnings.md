@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 BALL 
-featured: False
-modDatetime: 2024-04-28T19:03:01.630360Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.630360Z
-slug: q124-ball-earnings
-tags: ['transcripts', 'earnings', 'containers']
+pubDatetime: 2024-04-28 19:03:01.630360
+modDatetime: 2024-04-28 19:03:01.630360
 title: Q124 BALL earnings
+slug: q124-ball-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- containers
+description: Earnings summary for Q124 BALL
 ---
 ### Earnings Results
 

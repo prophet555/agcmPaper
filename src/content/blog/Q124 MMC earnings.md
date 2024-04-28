@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Marsh McLennan 
-featured: False
-modDatetime: 2024-04-28T19:03:01.676691Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.676691Z
-slug: q124-mmc-earnings
-tags: ['transcripts', 'earnings', 'insurance']
+pubDatetime: 2024-04-28 19:03:01.676691
+modDatetime: 2024-04-28 19:03:01.676691
 title: Q124 MMC earnings
+slug: q124-mmc-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- insurance
+description: Earnings summary for Q124 Marsh McLennan
 ---
-
 Earnings Results
 • Underlying revenue growth of 9% in Q1 2024, with strong growth across all businesses
 • Adjusted operating income grew 11% and adjusted operating margin expanded 80 basis points to 32%

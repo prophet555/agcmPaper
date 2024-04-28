@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 SAIA Inc
-featured: False
-modDatetime: 2024-04-28T19:03:01.627359Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.627359Z
-slug: q124-saia-earnings
-tags: ['transcripts', 'earnings', 'transportation']
+pubDatetime: 2024-04-28 19:03:01.627359
+modDatetime: 2024-04-28 19:03:01.627359
 title: Q124 SAIA earnings
+slug: q124-saia-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- transportation
+description: Earnings summary for Q124 SAIA Inc
 ---
 ### Earnings Results
 - **Revenue:** First Quarter 2024 revenue increased by 14.3% to $754.8 million, a record for any quarter in Saia's history.

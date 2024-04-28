@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Boeing 
-featured: False
-modDatetime: 2024-04-28T19:03:01.657686Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.657686Z
-slug: q124-ba-boeing-earnings
-tags: ['transcripts', 'earnings', 'aerospace']
+pubDatetime: 2024-04-28 19:03:01.657686
+modDatetime: 2024-04-28 19:03:01.657686
 title: Q124 BA earnings
+slug: q124-ba-boeing-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- aerospace
+description: Earnings summary for Q124 Boeing
 ---
-
 Earnings Results:
 • Revenue was $16.6 billion, down 8% versus last year primarily reflecting lower 737 delivery volume
 • Core loss per share was $1.13, a slight improvement versus last year

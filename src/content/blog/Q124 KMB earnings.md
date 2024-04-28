@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Kimberly Clark 
-featured: False
-modDatetime: 2024-04-28T19:03:01.667689Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.667689Z
-slug: q124-kmb-earnings
-tags: ['transcripts', 'earnings', 'staples']
+pubDatetime: 2024-04-28 19:03:01.667689
+modDatetime: 2024-04-28 19:03:01.667689
 title: Q124 KMB earnings
+slug: q124-kmb-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- staples
+description: Earnings summary for Q124 Kimberly Clark
 ---
-
 Earnings Results:
 • Strong Q1 results with better-than-expected volume growth
 • Productivity savings of $120 million in Q1, on track for $3 billion target over 5 years
@@ -35,4 +37,3 @@ Notable Quotes:
 • "We are on an exciting path and are well positioned to deliver durable growth and sustainable shareholder returns." - Mike Hsu, CEO
 • "The underlying strength in the quarter was predicated on a couple of good fundamental factors: one, better volume, which you observed, and there's no pull forward." - Mike Hsu, CEO
 • "Overall, first, it's based on the integrated margin management process that we unveiled in our Investor Day at the end of March. This has really given us a new enterprise-wide visibility, discipline, accountability, end-to-end across the whole value chain." - Nelson Urdaneta, CFO
-

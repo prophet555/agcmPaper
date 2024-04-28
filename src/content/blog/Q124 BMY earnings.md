@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Bristol Myers Squibb 
-featured: False
-modDatetime: 2024-04-28T19:03:01.647684Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.647684Z
-slug: q124-bmy-earnings
-tags: ['transcripts', 'earnings', 'pharmaceuticals']
+pubDatetime: 2024-04-28 19:03:01.647684
+modDatetime: 2024-04-28 19:03:01.647684
 title: Q124 BMY earnings
+slug: q124-bmy-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- pharmaceuticals
+description: Earnings summary for Q124 Bristol Myers Squibb
 ---
 # earnings summary
 Here are the key points from Bristol-Myers Squibb's Q1 2024 10-Q filing:

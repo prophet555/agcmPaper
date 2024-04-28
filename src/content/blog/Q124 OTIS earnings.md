@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Otis Worldwide 
-featured: False
-modDatetime: 2024-04-28T19:03:01.656685Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.656685Z
-slug: q124-otis-earnings
-tags: ['transcripts', 'earnings', 'machinery']
+pubDatetime: 2024-04-28 19:03:01.656685
+modDatetime: 2024-04-28 19:03:01.656685
 title: Q124 OTIS earnings
+slug: q124-otis-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- machinery
+description: Earnings summary for Q124 Otis Worldwide
 ---
-
 Earnings Results:
 • Mid-single-digit organic sales growth driven by Service business
 • Adjusted operating margins expanded by 80 basis points

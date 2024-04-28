@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 LyondellBasell Industries 
-featured: False
-modDatetime: 2024-04-28T19:03:01.628360Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.628360Z
-slug: q124-lyb-earnings
-tags: ['transcripts', 'earnings', 'chemicals']
+pubDatetime: 2024-04-28 19:03:01.628360
+modDatetime: 2024-04-28 19:03:01.628360
 title: Q124 LYB earnings
+slug: q124-lyb-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- chemicals
+description: Earnings summary for Q124 LyondellBasell Industries
 ---
 ### Earnings Results
 - **Olefin & Polyolefins Americas (O&P Americas) EBITDA**: $521 million; lower feedstock and energy costs offset by lower volumes due to planned and unplanned downtime.

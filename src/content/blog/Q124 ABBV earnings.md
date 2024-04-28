@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 AbbVie
-featured: False
-modDatetime: 2024-04-28T19:03:01.633361Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.633361Z
-slug: q124-abbv-earnings
-tags: ['transcripts', 'earnings', 'biotech']
+pubDatetime: 2024-04-28 19:03:01.633361
+modDatetime: 2024-04-28 19:03:01.633361
 title: Q124 ABBV earnings
+slug: q124-abbv-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- biotech
+description: Earnings summary for Q124 AbbVie
 ---
 ### Earnings Results
 - **First Quarter Revenue**: $12.3 billion, approximately $400 million ahead of expectations.

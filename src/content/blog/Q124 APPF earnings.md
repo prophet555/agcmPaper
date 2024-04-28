@@ -1,13 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 AppFolio
-featured: False
-modDatetime: 2024-04-28T19:03:01.622358Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.622358Z
-slug: q124-appf-earnings
-tags: ['transcripts', 'earnings', 'infotech', 'software']
+pubDatetime: 2024-04-28 19:03:01.622358
+modDatetime: 2024-04-28 19:03:01.622358
 title: Q124 APPF earnings
+slug: q124-appf-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- infotech
+- software
+description: Earnings summary for Q124 AppFolio
 ---
 ### Earnings Results
 - **Revenue Growth:** Revenue increased by 38% year-over-year, reaching $187 million in the first quarter of 2024.

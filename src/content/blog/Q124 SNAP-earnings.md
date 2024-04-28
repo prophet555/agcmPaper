@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 SNAP Inc
-featured: False
-modDatetime: 2024-04-28T19:03:01.640363Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.640363Z
-slug: q124-snap-earnings
-tags: ['transcripts', 'earnings', 'interactive-media']
+pubDatetime: 2024-04-28 19:03:01.640363
+modDatetime: 2024-04-28 19:03:01.640363
 title: Q124 SNAP earnings
+slug: q124-snap-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- interactive-media
+description: Earnings summary for Q124 SNAP Inc
 ---
 ### Earnings Results
 - **Revenue Growth:** Q1 revenue grew 21% year-over-year to $1.195 billion, driven by a 14 percentage point acceleration in advertising revenue, which grew 16% year-over-year.

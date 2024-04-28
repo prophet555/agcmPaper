@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Gilead Sciences 
-featured: False
-modDatetime: 2024-04-28T19:03:01.643683Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.643683Z
-slug: q124-gild-earnings
-tags: ['transcripts', 'earnings', 'biotech']
+pubDatetime: 2024-04-28 19:03:01.643683
+modDatetime: 2024-04-28 19:03:01.643683
 title: Q124 GILD earnings
+slug: q124-gild-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- biotech
+description: Earnings summary for Q124 Gilead Sciences
 ---
 ### Earnings Results
 - Total product sales, excluding Veklury, grew by 6% year-over-year to $6.1 billion, driven by higher demand across HIV, oncology, and liver disease segments.

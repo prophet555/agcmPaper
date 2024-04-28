@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Meta Platforms
-featured: False
-modDatetime: 2024-04-28T19:03:01.650685Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.650685Z
-slug: q124-meta-earnings
-tags: ['transcripts', 'earnings', 'mag7']
+pubDatetime: 2024-04-28 19:03:01.650685
+modDatetime: 2024-04-28 19:03:01.650685
 title: Q124 META earnings
+slug: q124-meta-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- mag7
+description: Earnings summary for Q124 Meta Platforms
 ---
-
 ### Earnings Results
 - Q1 total revenue was $36.5 billion, up 27% year-over-year on both a reported and constant currency basis
 - Total expenses were $22.6 billion, up 6% compared to last year  
@@ -35,4 +37,3 @@ Overall, the earnings report conveys an optimistic outlook, with Meta well-posit
 - "...scaling business messaging, introducing ads or paid content into AI interactions and enabling people to pay to use bigger AI models and access more compute..."  
 - "...our strong financial position will allow us to support these investments while also returning capital to shareholders through share repurchases and dividends."
 - "We've also made good progress on our AI and Metaverse efforts, and that's where we're going to focus most of my comments today."
-

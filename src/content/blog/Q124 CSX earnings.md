@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 CSX Corporation 
-featured: False
-modDatetime: 2024-04-28T19:03:01.677691Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.677691Z
-slug: q124-csx-earnings
-tags: ['transcripts', 'earnings', 'transportation']
+pubDatetime: 2024-04-28 19:03:01.677691
+modDatetime: 2024-04-28 19:03:01.677691
 title: Q124 CSX earnings
+slug: q124-csx-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- transportation
+description: Earnings summary for Q124 CSX Corporation
 ---
-
 Earnings Results:
 • Revenue of just under $3.7 billion, 1% lower than a year ago and flat compared to last quarter
 • Operating income was 8% lower than last year but up 3% sequentially 
@@ -34,4 +36,3 @@ Notable Quotes:
 • "CSX had a solid start 2024 that was in line with our expectations." - Joe Hinrichs, President and CEO
 • "Communication and collaboration between sales and marketing and operations is a key differentiator for CSX." - Kevin Boone, EVP and CCO
 • "We're not distracted by what's going on and certainly not not getting distracted by it. We're focused on what we can do, and you saw in the quarter sequential improvement across the Board, and we talked about our confidence in to be able to continue to deliver that." - Joe Hinrichs
-

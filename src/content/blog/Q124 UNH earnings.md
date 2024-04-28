@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 United Health Group 
-featured: False
-modDatetime: 2024-04-28T19:03:01.706698Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.706698Z
-slug: q124-unh-earnings
-tags: ['transcripts', 'earnings', 'healthcare']
+pubDatetime: 2024-04-28 19:03:01.706698
+modDatetime: 2024-04-28 19:03:01.706698
 title: Q124 UNH earnings
+slug: q124-unh-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- healthcare
+description: Earnings summary for Q124 United Health Group
 ---
-
 This earnings call discusses UnitedHealth Group's Q1 2024 results and provides insights into the company's performance, future outlook, and key trends.
 
 Earnings Results:

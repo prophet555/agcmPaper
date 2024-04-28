@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Alaska Air Group 
-featured: False
-modDatetime: 2024-04-28T19:03:01.691694Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.691694Z
-slug: q124-alk-earnings
-tags: ['transcripts', 'earnings', 'airlines']
+pubDatetime: 2024-04-28 19:03:01.691694
+modDatetime: 2024-04-28 19:03:01.691694
 title: Q124 ALK earnings
+slug: q124-alk-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- airlines
+description: Earnings summary for Q124 Alaska Air Group
 ---
-
 Earnings Results and Guidance:
 • Q1 2023 adjusted net loss of $116 million (excluding special items and fuel hedge adjustments)
 • Q2 2023 adjusted EPS guidance of $2.20 to $2.40

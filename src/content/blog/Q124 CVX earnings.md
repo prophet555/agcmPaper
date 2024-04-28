@@ -1,13 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Chevron 
-featured: False
-modDatetime: 2024-04-28T19:03:01.621358Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.621358Z
-slug: q124-cvx-earnings
-tags: ['transcripts', 'earnings', 'oil', 'energy']
+pubDatetime: 2024-04-28 19:03:01.621358
+modDatetime: 2024-04-28 19:03:01.621358
 title: Q124 CVX earnings
+slug: q124-cvx-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- oil
+- energy
+description: Earnings summary for Q124 Chevron
 ---
 ### Earnings Results
 - First quarter earnings reported at $5.5 billion or $2.97 per share.

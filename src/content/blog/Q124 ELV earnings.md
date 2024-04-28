@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Elevance Health 
-featured: False
-modDatetime: 2024-04-28T19:03:01.680692Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.680692Z
-slug: q124-elv-earnings
-tags: ['transcripts', 'earnings', 'healthcare']
+pubDatetime: 2024-04-28 19:03:01.680692
+modDatetime: 2024-04-28 19:03:01.680692
 title: Q124 ELV earnings
+slug: q124-elv-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- healthcare
+description: Earnings summary for Q124 Elevance Health
 ---
 # Q124 ELV earnings
 
@@ -34,4 +37,3 @@ Notable quotes:
 • "We're excited to collaborate with CD&R and a broad range of care provider partners to accelerate innovation, enhance health care experiences and improve health outcomes for consumers." - Gail Boudreaux, CEO
 • "Solid performance and growth in operating gains for both our Health Benefits and Carelon segments of $138 million and $72 million, respectively, led to growth in consolidated adjusted operating gains of over 7%." - Mark Kaye, CFO
 • "We estimate that nearly 90% of our members have had their eligibility redetermined." - Felicia Norwood, President of Government Business
-

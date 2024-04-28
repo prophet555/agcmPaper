@@ -1,15 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Lithia Motors
-featured: False
-modDatetime: 2024-04-28T19:03:01.651685Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.651685Z
-slug: q1-lad-earnings
-tags: ['transcripts', 'earnings']
+pubDatetime: 2024-04-28 19:03:01.651685
+modDatetime: 2024-04-28 19:03:01.651685
 title: Q1 LAD earnings
+slug: q1-lad-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+description: Earnings summary for Q124 Lithia Motors
 ---
-
 Lithia Motors Q1 2024 earnings call:
 
 Earnings Results:
@@ -44,4 +45,3 @@ Notable Quotes:
 "We are positioned to deliver strong growth through reinventing our industry's customer experiences and achieving a LAD profit equation of $2 of EPS for every $1 billion of revenue." - Bryan DeBoer, CEO
 
 "Our financing operations segment, primarily driven by DFC, continues to grow, and we see clear line of sight on how this adjacency is now providing incremental profitability and diversifying our business model as it matures." - Tina Miller, CFO
-

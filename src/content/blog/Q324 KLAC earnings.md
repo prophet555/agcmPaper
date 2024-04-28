@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q324 KLA Corporation 
-featured: False
-modDatetime: 2024-04-28T19:03:01.636362Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.636362Z
-slug: q324-klac-earnings
-tags: ['transcripts', 'earnings', 'semiconductors']
+pubDatetime: 2024-04-28 19:03:01.636362
+modDatetime: 2024-04-28 19:03:01.636362
 title: Q324 KLAC earnings
+slug: q324-klac-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- semiconductors
+description: Earnings summary for Q324 KLA Corporation
 ---
 ### Earnings Results
 - **Revenue**: Q3 2024 revenue was $2.36 billion, above the guidance range midpoint.

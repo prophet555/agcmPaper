@@ -1,13 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 SJW Group
-featured: False
-modDatetime: 2024-04-28T19:03:01.619358Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.619358Z
-slug: q124-sjw-earnings
-tags: ['transcripts', 'earnings', 'utilities', 'water']
+pubDatetime: 2024-04-28 19:03:01.619358
+modDatetime: 2024-04-28 19:03:01.619358
 title: Q124 SJW earnings
+slug: q124-sjw-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- utilities
+- water
+description: Earnings summary for Q124 SJW Group
 ---
 ### Earnings Results
 - Revenue for Q1 2024 was reported at $149.4 million, marking a 9% increase from $137.3 million in Q1 2023.

@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q424 RENT the runway 
-featured: False
-modDatetime: 2024-04-28T19:03:01.712239Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.712239Z
-slug: q424-rent-the-runway-earnings
-tags: ['transcripts', 'earnings', 'retail']
+pubDatetime: 2024-04-28 19:03:01.712239
+modDatetime: 2024-04-28 19:03:01.712239
 title: Q424 RENT the runway earnings
+slug: q424-rent-the-runway-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- retail
+description: Earnings summary for Q424 RENT the runway
 ---
-
 Earnings Results:
 - Q4 revenue was $75.8M, up 0.5% YoY and beating guidance 
 - Full year revenue was $298.2M, up 0.6% YoY
@@ -37,4 +39,3 @@ Market Conditions:
 - Believe they provide value to price-conscious customers and brands in current environment
 
 Sentiment: The overall sentiment from management is very positive and optimistic. They are excited about returning to growth in FY24 while achieving free cash flow breakeven. The improved customer metrics, restructuring of the cost base and debt, and shift to an asset-light inventory model give them confidence in their outlook despite macro uncertainty. Multiple growth drivers are highlighted including resale, product innovation, and new marketing initiatives.
-

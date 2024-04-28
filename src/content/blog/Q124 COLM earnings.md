@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Columbia Sportswear 
-featured: False
-modDatetime: 2024-04-28T19:03:01.638362Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.638362Z
-slug: q124-colm-earnings
-tags: ['transcripts', 'earnings', 'apparel']
+pubDatetime: 2024-04-28 19:03:01.638362
+modDatetime: 2024-04-28 19:03:01.638362
 title: Q124 COLM earnings
+slug: q124-colm-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- apparel
+description: Earnings summary for Q124 Columbia Sportswear
 ---
 ### Earnings Results
 

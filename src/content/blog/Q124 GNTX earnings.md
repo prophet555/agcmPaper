@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Gentex Corporation 
-featured: False
-modDatetime: 2024-04-28T19:03:01.626359Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.626359Z
-slug: q124-gntx-earnings
-tags: ['transcripts', 'earnings', 'automobile-components']
+pubDatetime: 2024-04-28 19:03:01.626359
+modDatetime: 2024-04-28 19:03:01.626359
 title: Q124 GNTX earnings
+slug: q124-gntx-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- automobile-components
+description: Earnings summary for Q124 Gentex Corporation
 ---
 ### Earnings Results
 - **Net Sales:** Increased by 7% Y/Y to $590.2 million.

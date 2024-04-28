@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Morgan Stanley 
-featured: False
-modDatetime: 2024-04-28T19:03:01.707698Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.707698Z
-slug: q124-ms-morgan-stanley-earnings
-tags: ['transcripts', 'earnings', 'financials']
+pubDatetime: 2024-04-28 19:03:01.707698
+modDatetime: 2024-04-28 19:03:01.707698
 title: Q124 MS morgan stanley earnings
+slug: q124-ms-morgan-stanley-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- financials
+description: Earnings summary for Q124 Morgan Stanley
 ---
-
 Earnings Results:
 - Strong quarter with $15B revenue, 71% efficiency ratio, $2.02 EPS and 20% ROTCE
 - Wealth Management delivered record revenues of $6.9B, driven by record asset management fees. Pretax margin was 26.3%. Net new assets strong at $95B.  

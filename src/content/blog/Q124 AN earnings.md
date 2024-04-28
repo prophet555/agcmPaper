@@ -1,13 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 AutoNation 
-featured: False
-modDatetime: 2024-04-28T19:03:01.624358Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.624358Z
-slug: q124-an-earnings
-tags: ['transcripts', 'earnings', 'retail', 'automotive']
+pubDatetime: 2024-04-28 19:03:01.624358
+modDatetime: 2024-04-28 19:03:01.624358
 title: Q124 AN earnings
+slug: q124-an-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- retail
+- automotive
+description: Earnings summary for Q124 AutoNation
 ---
 ### Earnings Results
 - **Total Revenue:** Increased by 1%, with notable growth in parts and service at 8%.

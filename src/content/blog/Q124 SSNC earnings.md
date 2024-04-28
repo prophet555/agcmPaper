@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 SS&C Tech 
-featured: False
-modDatetime: 2024-04-28T19:03:01.637362Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.637362Z
-slug: q124-ssnc-earnings
-tags: ['transcripts', 'earnings', 'services']
+pubDatetime: 2024-04-28 19:03:01.637362
+modDatetime: 2024-04-28 19:03:01.637362
 title: Q124 SSNC earnings
+slug: q124-ssnc-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- services
+description: Earnings summary for Q124 SS&C Tech
 ---
 ### Earnings Results
 

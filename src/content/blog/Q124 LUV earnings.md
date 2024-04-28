@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Southwest Airlines 
-featured: False
-modDatetime: 2024-04-28T19:03:01.646684Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.646684Z
-slug: q124-luv-earnings
-tags: ['transcripts', 'earnings', 'airlines']
+pubDatetime: 2024-04-28 19:03:01.646684
+modDatetime: 2024-04-28 19:03:01.646684
 title: Q124 LUV earnings
+slug: q124-luv-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- airlines
+description: Earnings summary for Q124 Southwest Airlines
 ---
 ### Earnings Results
 - **Record Operating Revenues and Passengers:** Achieved records for Q1 operating revenues and passengers, marking 8 straight quarters of record top line performance.

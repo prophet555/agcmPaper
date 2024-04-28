@@ -1,15 +1,18 @@
 ---
 author: mike
-description: Earnings summary for Q124 Travelers Companies
-featured: False
-modDatetime: 2024-04-28T19:03:01.684692Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.684692Z
-slug: q1-trv-earnings
-tags: ['transcripts', 'earnings', 'insurance', 'financials']
+pubDatetime: 2024-04-28 19:03:01.684692
+modDatetime: 2024-04-28 19:03:01.684692
 title: Q1 TRV earnings
+slug: q1-trv-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- insurance
+- financials
+description: Earnings summary for Q124 Travelers Companies
 ---
-
 Earnings Results:
 • Core income of $1.1 billion or $4.69 per diluted share, up 13% from prior year quarter
 • Combined ratio improved 1.5 points to 93.9% despite elevated catastrophe activity
@@ -36,4 +39,3 @@ Notable Quotes:
 • Alan Schnitzer: "We're firing on all cylinders. We also continue to invest in important strategic initiatives. We have demonstrated success in executing our innovation strategy, which has contributed to superior returns with industry low volatility, growth in our premium base and higher adjusted book value per share."
 
 • Michael Klein: "Personal Insurance team has made notable progress on improving the underlying fundamentals of our business, while sustaining investments in key capabilities for the future. We're moving closer to our goal of delivering target returns."
-

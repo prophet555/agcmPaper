@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28T18:55:45.754067Z
-modDatetime: 2024-04-28T18:55:45.754067Z
+pubDatetime: 2024-04-28 18:55:45.754067
+modDatetime: 2024-04-28 18:55:45.754067
 title: Q124 DAL earnings
 slug: Q124-dal-earnings
 featured: false
@@ -10,7 +10,7 @@ tags:
 - transcripts
 - earnings
 - airlines
-description: 'Earnings summary for 24Q1 Delta Air'
+description: Earnings summary for 24Q1 Delta Air
 ---
 # 24Q1 DAL earnings
 
@@ -40,5 +40,3 @@ The tone of the call was very optimistic and confident. Management feels they ar
 Guidance was upbeat, with expectations for record revenue and margins this summer. The demand commentary was also bullish, with robust consumer and accelerating corporate trends. 
 
 The main watchpoints seem to be the ongoing rebuild of the international network and the normalization of travel credits creating a modest headwind this year. But overall, management appears quite enthusiastic about both the current state of the business and future opportunities to drive earnings and cash flow higher.
-
-

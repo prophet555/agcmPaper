@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28T19:03:01.708698Z
-modDatetime: 2024-04-28T19:03:01.708698Z
+pubDatetime: 2024-04-28 19:03:01.708698
+modDatetime: 2024-04-28 19:03:01.708698
 title: 24Q4 STZ constellation earnings
 slug: 24q4-stz-constellation-earnings
 featured: false
@@ -40,4 +40,3 @@ Market Conditions:
 - Some macroeconomic uncertainty and cost inflation, but Constellation is managing well so far through pricing and cost savings
 
 Sentiment: The tone of the call was cautiously optimistic. Management is very confident and enthusiastic about the continued momentum in beer. They acknowledge the challenges in Wine & Spirits but have a clear turnaround plan and see a path back to growth over time. While not ignoring macro headwinds, they believe Constellation's strong brands and execution position it well to achieve its medium-term growth targets.
-

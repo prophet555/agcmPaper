@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q224 DR Horton 
-featured: False
-modDatetime: 2024-04-28T19:03:01.694694Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.694694Z
-slug: q224-dhi-earnings
-tags: ['transcripts', 'earnings', 'homebuilders']
+pubDatetime: 2024-04-28 19:03:01.694694
+modDatetime: 2024-04-28 19:03:01.694694
 title: Q224 DHI earnings
+slug: q224-dhi-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- homebuilders
+description: Earnings summary for Q224 DR Horton
 ---
-
 D.R. Horton reported solid earnings results for Q2 2024, with EPS of $3.52 increasing 29% year-over-year. Consolidated revenues grew 14% to $9.1 billion. The company delivered 22,548 homes, up from 19,664 in the prior year. Gross margin was 23.2%, up 30 basis points sequentially.
 
 While inflation and mortgage rates remain elevated, net sales orders increased 14% year-over-year to 26,456 homes as demand remains strong, especially at affordable price points. The cancellation rate declined to 15%. D.R. Horton has 45,000 homes in inventory and has seen construction cycle times normalize, positioning it well to continue gaining market share. 
@@ -36,4 +38,3 @@ Notable quotes:
 "We will maintain our disciplined approach to investing capital to enhance the long-term value of the company, which includes returning capital to our shareholders through both dividends and share repurchases on a consistent basis." - Paul Romanowski, CEO
 
 "Going forward, as Jessica has said a couple of times already, going forward, it's going to be subject to the rate what happens in the market with rates and in the last week, we've seen another period of volatility." - Bill Wheat, CFO
-

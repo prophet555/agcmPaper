@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Skywest 
-featured: False
-modDatetime: 2024-04-28T19:03:01.644684Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.644684Z
-slug: q124-skyw-earnings
-tags: ['transcripts', 'earnings', 'airlines']
+pubDatetime: 2024-04-28 19:03:01.644684
+modDatetime: 2024-04-28 19:03:01.644684
 title: Q124 SKYW earnings
+slug: q124-skyw-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- airlines
+description: Earnings summary for Q124 Skywest
 ---
 ### Earnings Results
 - **Net Income:** SkyWest reported a net income of $60 million for Q1 2024.

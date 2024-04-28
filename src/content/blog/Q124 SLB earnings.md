@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Schlumberger 
-featured: False
-modDatetime: 2024-04-28T19:03:01.673689Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.673689Z
-slug: q124-slb-earnings
-tags: ['transcripts', 'earnings', 'energy']
+pubDatetime: 2024-04-28 19:03:01.673689
+modDatetime: 2024-04-28 19:03:01.673689
 title: Q124 SLB earnings
+slug: q124-slb-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- energy
+description: Earnings summary for Q124 Schlumberger
 ---
 # Q124 SLB earnings
 
@@ -36,4 +39,3 @@ Notable quotes:
 "I'm very pleased with our strong start to 2024. Year-on-year, revenue grew 13% and EBITDA grew in the mid-teens, in line with our full year financial ambitions." - Olivier Le Peuch, CEO
 
 "We're in the midst of a unique [indiscernible] cycle, characterized by strong market fundamentals, growing demand and a deeper focus on energy security. I described on several occasions, this cycle continued to display breadth, resilience and longevity." - Olivier Le Peuch, CEO
-

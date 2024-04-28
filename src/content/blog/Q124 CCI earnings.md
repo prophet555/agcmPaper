@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Crown Castle 
-featured: False
-modDatetime: 2024-04-28T19:03:01.686693Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.686693Z
-slug: q124-cci-earnings
-tags: ['transcripts', 'earnings', 'reits']
+pubDatetime: 2024-04-28 19:03:01.686693
+modDatetime: 2024-04-28 19:03:01.686693
 title: Q124 CCI earnings
+slug: q124-cci-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- reits
+description: Earnings summary for Q124 Crown Castle
 ---
-
 Earnings Results:
 • Delivered solid results in line with expectations for Q1 2024
 • Site rental revenues grew 4.4% to $1,524 million

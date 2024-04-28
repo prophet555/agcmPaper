@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 JP Morgan 
-featured: False
-modDatetime: 2024-04-28T19:03:01.709697Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.709697Z
-slug: q124-jpm-earnings
-tags: ['transcripts', 'earnings', 'financials']
+pubDatetime: 2024-04-28 19:03:01.709697
+modDatetime: 2024-04-28 19:03:01.709697
 title: Q124 JPM earnings
+slug: q124-jpm-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- financials
+description: Earnings summary for Q124 JP Morgan
 ---
 # Q124 JPM earnings
 
@@ -31,4 +34,3 @@ Themes/Trends:
 
 Sentiment:
 The tone of the call was cautiously optimistic. Management is pleased with JPMorgan's performance and market share gains. However, they remain vigilant about economic uncertainty and geopolitical risks that could change the operating environment. The bank is maintaining strong capital ratios in preparation for potential challenges. Overall, JPMorgan appears well-positioned to navigate the evolving landscape from a position of strength.
-

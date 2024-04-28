@@ -1,18 +1,16 @@
 ---
 author: mike
-description: 'Earnings summary for 4Q23 PVH corp '
-featured: false
-modDatetime: 
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T16:56:49.134057Z
+pubDatetime: 2024-04-26 16:56:49.134057
+modDatetime:
+title: 4Q23 PVH corp earnings
 slug: 4q23-pvh-corp-earnings
+featured: false
+ogImage: /assets/images/250_250.png
 tags:
 - transcripts
 - earnings
-title: 4Q23 PVH corp earnings
+description: 'Earnings summary for 4Q23 PVH corp '
 ---
-
-
 PVH Corp. reported strong financial results for Q4 and full year 2023, exceeding guidance on both revenue and earnings. Key highlights:
 
 Q4 2023:

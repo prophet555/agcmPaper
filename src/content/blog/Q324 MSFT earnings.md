@@ -1,15 +1,18 @@
 ---
 author: mike
-description: Earnings summary for Q324 Microsoft 
-featured: False
-modDatetime: 2024-04-28T19:03:01.641683Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.641683Z
-slug: q324-msft-earnings
-tags: ['transcripts', 'earnings', 'software', 'mag7']
+pubDatetime: 2024-04-28 19:03:01.641683
+modDatetime: 2024-04-28 19:03:01.641683
 title: Q324 MSFT earnings
+slug: q324-msft-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- software
+- mag7
+description: Earnings summary for Q324 Microsoft
 ---
-
 Earnings Results
 
 - Microsoft's Fiscal Year 2024 Third Quarter revenue was $61.9 billion, up 17% year-over-year.

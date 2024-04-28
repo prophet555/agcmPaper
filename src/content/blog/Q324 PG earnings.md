@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q324 Procter Gamble 
-featured: False
-modDatetime: 2024-04-28T19:03:01.690694Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.690694Z
-slug: q324-pg-earnings
-tags: ['transcripts', 'earnings', 'staples']
+pubDatetime: 2024-04-28 19:03:01.690694
+modDatetime: 2024-04-28 19:03:01.690694
 title: Q324 PG earnings
+slug: q324-pg-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- staples
+description: Earnings summary for Q324 Procter Gamble
 ---
-
 Earnings Results:
 • Organic sales grew 3% with volume in line with prior year and pricing contributing 3 points
 • Growth across 8 of 10 product categories and geographies including North America, Europe, Asia Pacific Focus Markets, Latin America, and Europe Enterprise Markets
@@ -32,4 +34,3 @@ Notable quotes:
 "Our teams continue to operate with excellence, executing the integrated strategy that has enabled strong results over the past 5 years, and that is the foundation for balanced growth and value creation." - Andre Schulten, CFO
 
 "We continue to believe that the best path forward to deliver sustainable top and bottom line growth is to double down on this integrated strategy, starting with a commitment to deliver Irresistibly Superior propositions to consumers and retail partners fueled by productivity." - Andre Schulten, CFO
-

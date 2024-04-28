@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Johnson and Johnson 
-featured: False
-modDatetime: 2024-04-28T19:03:01.698696Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.698696Z
-slug: q124-jnj-earnings
-tags: ['transcripts', 'earnings', 'pharmaceuticals']
+pubDatetime: 2024-04-28 19:03:01.698696
+modDatetime: 2024-04-28 19:03:01.698696
 title: Q124 JNJ earnings
+slug: q124-jnj-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- pharmaceuticals
+description: Earnings summary for Q124 Johnson and Johnson
 ---
 # Q124 JNJ earnings
 
@@ -35,4 +38,3 @@ Market Conditions:
 - Robust market conditions noted in MedTech areas like electrophysiology and orthopedic procedures.
 
 In summary, the tone of the call was positive, highlighting a strong start to 2024 operationally and through key strategic actions. Management expressed confidence in the business trajectory and ability to achieve long-term growth goals through sustained innovation and targeted acquisitions. While acknowledging some competitive and policy factors to watch, overall market conditions appear favorable based on J&J's diversified healthcare leadership.
-

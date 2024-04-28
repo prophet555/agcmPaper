@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 CME Group
-featured: False
-modDatetime: 2024-04-28T19:03:01.653686Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.653686Z
-slug: q124-cme-earnings
-tags: ['transcripts', 'earnings', 'financials']
+pubDatetime: 2024-04-28 19:03:01.653686
+modDatetime: 2024-04-28 19:03:01.653686
 title: Q124 CME earnings
+slug: q124-cme-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- financials
+description: Earnings summary for Q124 CME Group
 ---
 # Q124 CME earnings
 
@@ -34,4 +37,3 @@ Notable quotes:
 • Terry Duffy: "CME Group continues to provide deep liquid markets across global benchmarks to deliver the most operational and capital efficiencies to market participants. CME Group's multi-asset class offering, is in higher demand today than ever."
 
 The company maintains its adjusted expense guidance for the full year and continues to prioritize the development of risk management products while driving earnings growth for shareholders. Overall, CME Group demonstrates resilience and growth potential in an environment characterized by diverse opinions and the need for efficient risk management tools.
-

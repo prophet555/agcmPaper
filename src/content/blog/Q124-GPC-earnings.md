@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Genuine Parts 
-featured: False
-modDatetime: 2024-04-28T19:03:01.678690Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.678690Z
-slug: q124-gpc-earnings
-tags: ['transcripts', 'earnings', 'distributors']
+pubDatetime: 2024-04-28 19:03:01.678690
+modDatetime: 2024-04-28 19:03:01.678690
 title: Q124 GPC earnings
+slug: q124-gpc-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- distributors
+description: Earnings summary for Q124 Genuine Parts
 ---
 # Q124 GPC earnings
 

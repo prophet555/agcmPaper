@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Charter Communications 
-featured: False
-modDatetime: 2024-04-28T19:03:01.635361Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.635361Z
-slug: q124-chtr-earnings
-tags: ['transcripts', 'earnings', 'communication']
+pubDatetime: 2024-04-28 19:03:01.635361
+modDatetime: 2024-04-28 19:03:01.635361
 title: Q124 CHTR earnings
+slug: q124-chtr-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- communication
+description: Earnings summary for Q124 Charter Communications
 ---
 ### Earnings Results
 - Internet customer loss of 72,000 during Q1, marking a notable decline in growth.

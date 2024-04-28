@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Las Vegas Sands 
-featured: False
-modDatetime: 2024-04-28T19:03:01.697695Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.697695Z
-slug: q124-lvs-earnings
-tags: ['transcripts', 'earnings', 'hotels']
+pubDatetime: 2024-04-28 19:03:01.697695
+modDatetime: 2024-04-28 19:03:01.697695
 title: Q124 LVS earnings
+slug: q124-lvs-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- hotels
+description: Earnings summary for Q124 Las Vegas Sands
 ---
 # Q124 LVS earnings
 
@@ -33,4 +36,3 @@ Key Themes:
 
 Sentiment: Positive 
 The tone of management was confident and optimistic about the long-term growth potential in both Macao and Singapore as their property investments are completed. Near-term disruption from construction in Macao is seen as temporary. Cash flows are strong, enabling capital return and reinvestment for growth. Macao market commentary was particularly bullish.
-

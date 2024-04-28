@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Manpower 
-featured: False
-modDatetime: 2024-04-28T19:03:01.695695Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.695695Z
-slug: q124-man-manpower-earnings
-tags: ['transcripts', 'earnings', 'professional-services']
+pubDatetime: 2024-04-28 19:03:01.695695
+modDatetime: 2024-04-28 19:03:01.695695
 title: Q124 MAN manpower earnings
+slug: q124-man-manpower-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- professional-services
+description: Earnings summary for Q124 Manpower
 ---
 # Q124 MAN manpower earnings
 

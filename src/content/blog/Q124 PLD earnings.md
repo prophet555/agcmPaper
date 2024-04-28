@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Prologis 
-featured: False
-modDatetime: 2024-04-28T19:03:01.681692Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.681692Z
-slug: q124-pld-earnings
-tags: ['transcripts', 'earnings', 'reits']
+pubDatetime: 2024-04-28 19:03:01.681692
+modDatetime: 2024-04-28 19:03:01.681692
 title: Q124 PLD earnings
+slug: q124-pld-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- reits
+description: Earnings summary for Q124 Prologis
 ---
 # Q124 PLD earnings
 
@@ -39,4 +42,3 @@ Notable quotes:
 "This is punctuated of course, by a more pronounced period of correction still underway in Southern California." - Timothy Arndt, CFO
 
 "New starts, however, continues to be surprisingly disciplined, adding to the expectation for limited new supply in the back half of '24, but also extending deeper into '25. When considered alongside muted demand, we arrive at a view that the operating environment has only changed modestly in aggregate and that demand is simply pushing out by a few quarters." - Timothy Arndt, CFO
-

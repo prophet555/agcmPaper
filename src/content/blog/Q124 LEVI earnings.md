@@ -1,15 +1,17 @@
 ---
 author: mike
-description: Earnings summary for Q124 Levi Strauss  
-featured: False
-modDatetime: 2024-04-28T19:03:01.714240Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.714240Z
-slug: q124-levi-earnings
-tags: ['transcripts', 'earnings', 'apparel']
+pubDatetime: 2024-04-28 19:03:01.714240
+modDatetime: 2024-04-28 19:03:01.714240
 title: Q124 LEVI earnings
+slug: q124-levi-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- apparel
+description: Earnings summary for Q124 Levi Strauss
 ---
-
 # earnings summary
 
 Levi Strauss & Co. reported better-than-expected Q1 2024 results, with revenues of $1.6 billion, down 8% on a constant currency basis due to a $100 million shift from Q2 into Q1 in the prior year related to an ERP implementation. Excluding this shift and the impact from exiting the Denizen business in Russia, Q1 revenues were flat. Adjusted diluted EPS of $0.26 exceeded expectations driven by gross margin expansion of 240 basis points and prudent expense management.

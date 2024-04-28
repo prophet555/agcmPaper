@@ -1,13 +1,16 @@
 ---
 author: mike
-description: Earnings summary for Q124 Hilton Worldwide 
-featured: False
-modDatetime: 2024-04-28T19:03:01.661687Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.661687Z
-slug: q124-hlt-earnings
-tags: ['transcripts', 'earnings', 'hotels']
+pubDatetime: 2024-04-28 19:03:01.661687
+modDatetime: 2024-04-28 19:03:01.661687
 title: Q124 HLT earnings
+slug: q124-hlt-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+- hotels
+description: Earnings summary for Q124 Hilton Worldwide
 ---
 # Q124 HLT earnings
 
@@ -38,4 +41,3 @@ Notable quotes:
 "For the full year, group position is up 13% versus last year." - Chris Nassetta
 
 "System-wide construction starts also outperformed expectations, up roughly 45% versus last year, with all major regions meaningfully higher." - Chris Nassetta
-

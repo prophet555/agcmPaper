@@ -1,13 +1,15 @@
 ---
 author: mike
-description: Earnings summary for Q124 Equifax 
-featured: False
-modDatetime: 2024-04-28T19:03:01.685693Z
-ogImage: /assets/images/250_250.png
-pubDatetime: 2024-04-28T19:03:01.685693Z
-slug: q124-efx-earnings
-tags: ['transcripts', 'earnings']
+pubDatetime: 2024-04-28 19:03:01.685693
+modDatetime: 2024-04-28 19:03:01.685693
 title: Q124 EFX earnings
+slug: q124-efx-earnings
+featured: false
+ogImage: /assets/images/250_250.png
+tags:
+- transcripts
+- earnings
+description: Earnings summary for Q124 Equifax
 ---
 # Q124 EFX earnings
 
@@ -40,4 +42,3 @@ Notable quotes:
 "Our non-mortgage businesses continue to perform very well, and we expect them to deliver growth above our long-term framework of 6-8% in 2023." - John Gamble, CFO
 
 "While there are some signs of weakness in the economy, we're seeing overall stability in terms of consumer credit and employment, and our strong performance in the first quarter gives us confidence in our ability to deliver for the full year." - Mark Begor, CEO
-
