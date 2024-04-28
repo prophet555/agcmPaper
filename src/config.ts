@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "mikeH",
   desc: "equity research, ASX small cap focus",
   title: "AGCM",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "agcm-og.jpg",
   lightAndDarkMode: false,
   postPerPage: 20,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
