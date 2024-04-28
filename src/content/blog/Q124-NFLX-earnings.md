@@ -1,29 +1,17 @@
 ---
 author: mike
-
-pubDatetime: '2024-04-20'
-
+pubDatetime: 2024-04-20T00:00:00Z
 modDatetime:
-
 title: Q124 NFLX earnings
-
 slug: Q124-NFLX-earnings
-
 featured: false
-
-ogImage: 
-
+ogImage: /assets/images/250_250.png
 tags:
-
-  - transcripts
-
-  - earnings
-
+  - transcripts
+  - earnings
   - media
-
   - streaming
-
-description: Earnings summary for Netflix Q124
+description: "Earnings summary for Netflix Q124"
 ---
 
 ### Earnings Results
