@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.621358
-modDatetime: 2024-04-28 19:03:01.621358
+pubDatetime: 2024-04-27 19:03:01.621358
+modDatetime: 2024-04-27 19:03:01.621358
 title: Q124 CVX earnings
 slug: q124-cvx-earnings
 featured: false

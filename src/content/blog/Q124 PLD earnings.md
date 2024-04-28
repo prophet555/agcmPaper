@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.681692
-modDatetime: 2024-04-28 19:03:01.681692
+pubDatetime: 2024-04-21 19:03:01.681692
+modDatetime: 2024-04-21 19:03:01.681692
 title: Q124 PLD earnings
 slug: q124-pld-earnings
 featured: false

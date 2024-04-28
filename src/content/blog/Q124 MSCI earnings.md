@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.652685
-modDatetime: 2024-04-28 19:03:01.652685
+pubDatetime: 2024-04-25 19:03:01.652685
+modDatetime: 2024-04-25 19:03:01.652685
 title: Q124 MSCI earnings
 slug: q124-msci-earnings
 featured: false

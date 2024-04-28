@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.685693
-modDatetime: 2024-04-28 19:03:01.685693
+pubDatetime: 2024-04-21 19:03:01.685693
+modDatetime: 2024-04-21 19:03:01.685693
 title: Q124 EFX earnings
 slug: q124-efx-earnings
 featured: false

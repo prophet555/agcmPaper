@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.624358
-modDatetime: 2024-04-28 19:03:01.624358
+pubDatetime: 2024-04-27 19:03:01.624358
+modDatetime: 2024-04-27 19:03:01.624358
 title: Q124 AN earnings
 slug: q124-an-earnings
 featured: false

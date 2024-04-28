@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.675691
-modDatetime: 2024-04-28 19:03:01.675691
+pubDatetime: 2024-04-21 19:03:01.675691
+modDatetime: 2024-04-21 19:03:01.675691
 title: Q124 SNA earnings
 slug: q124-sna-earnings
 featured: false

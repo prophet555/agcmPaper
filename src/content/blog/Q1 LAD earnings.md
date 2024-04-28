@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.651685
-modDatetime: 2024-04-28 19:03:01.651685
+pubDatetime: 2024-04-25 19:03:01.651685
+modDatetime: 2024-04-25 19:03:01.651685
 title: Q1 LAD earnings
 slug: q1-lad-earnings
 featured: false

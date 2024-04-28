@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.626359
-modDatetime: 2024-04-28 19:03:01.626359
+pubDatetime: 2024-04-27 19:03:01.626359
+modDatetime: 2024-04-27 19:03:01.626359
 title: Q124 GNTX earnings
 slug: q124-gntx-earnings
 featured: false

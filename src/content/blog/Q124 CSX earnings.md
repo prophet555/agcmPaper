@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.677691
-modDatetime: 2024-04-28 19:03:01.677691
+pubDatetime: 2024-04-21 19:03:01.677691
+modDatetime: 2024-04-21 19:03:01.677691
 title: Q124 CSX earnings
 slug: q124-csx-earnings
 featured: false

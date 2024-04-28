@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.653686
-modDatetime: 2024-04-28 19:03:01.653686
+pubDatetime: 2024-04-25 19:03:01.653686
+modDatetime: 2024-04-25 19:03:01.653686
 title: Q124 CME earnings
 slug: q124-cme-earnings
 featured: false

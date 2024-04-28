@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.667689
-modDatetime: 2024-04-28 19:03:01.667689
+pubDatetime: 2024-04-24 19:03:01.667689
+modDatetime: 2024-04-24 19:03:01.667689
 title: Q124 KMB earnings
 slug: q124-kmb-earnings
 featured: false

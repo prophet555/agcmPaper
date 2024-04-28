@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.641683
-modDatetime: 2024-04-28 19:03:01.641683
+pubDatetime: 2024-04-26 19:03:01.641683
+modDatetime: 2024-04-26 19:03:01.641683
 title: Q324 MSFT earnings
 slug: q324-msft-earnings
 featured: false

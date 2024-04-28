@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.691694
-modDatetime: 2024-04-28 19:03:01.691694
+pubDatetime: 2024-04-21 19:03:01.691694
+modDatetime: 2024-04-21 19:03:01.691694
 title: Q124 ALK earnings
 slug: q124-alk-earnings
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.666688
-modDatetime: 2024-04-28 19:03:01.666688
+pubDatetime: 2024-04-24 19:03:01.666688
+modDatetime: 2024-04-24 19:03:01.666688
 title: Q124 GM earnings
 slug: q124-gm-earnings
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.698696
-modDatetime: 2024-04-28 19:03:01.698696
+pubDatetime: 2024-04-20 19:03:01.698696
+modDatetime: 2024-04-20 19:03:01.698696
 title: Q124 JNJ earnings
 slug: q124-jnj-earnings
 featured: false

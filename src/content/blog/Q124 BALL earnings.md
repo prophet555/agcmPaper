@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.630360
-modDatetime: 2024-04-28 19:03:01.630360
+pubDatetime: 2024-04-27 19:03:01.630360
+modDatetime: 2024-04-27 19:03:01.630360
 title: Q124 BALL earnings
 slug: q124-ball-earnings
 featured: false

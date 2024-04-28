@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.623359
-modDatetime: 2024-04-28 19:03:01.623359
+pubDatetime: 2024-04-27 19:03:01.623359
+modDatetime: 2024-04-27 19:03:01.623359
 title: Q124 ROP earnings
 slug: q124-rop-earnings
 featured: false

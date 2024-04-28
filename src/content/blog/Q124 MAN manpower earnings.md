@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.695695
-modDatetime: 2024-04-28 19:03:01.695695
+pubDatetime: 2024-04-21 19:03:01.695695
+modDatetime: 2024-04-21 19:03:01.695695
 title: Q124 MAN manpower earnings
 slug: q124-man-manpower-earnings
 featured: false

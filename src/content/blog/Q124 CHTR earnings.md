@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.635361
-modDatetime: 2024-04-28 19:03:01.635361
+pubDatetime: 2024-04-27 19:03:01.635361
+modDatetime: 2024-04-27 19:03:01.635361
 title: Q124 CHTR earnings
 slug: q124-chtr-earnings
 featured: false

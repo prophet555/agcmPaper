@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.707698
-modDatetime: 2024-04-28 19:03:01.707698
+pubDatetime: 2024-04-20 19:03:01.707698
+modDatetime: 2024-04-20 19:03:01.707698
 title: Q124 MS morgan stanley earnings
 slug: q124-ms-morgan-stanley-earnings
 featured: false

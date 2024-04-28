@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.686693
-modDatetime: 2024-04-28 19:03:01.686693
+pubDatetime: 2024-04-21 19:03:01.686693
+modDatetime: 2024-04-21 19:03:01.686693
 title: Q124 CCI earnings
 slug: q124-cci-earnings
 featured: false

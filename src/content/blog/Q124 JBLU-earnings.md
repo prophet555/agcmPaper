@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.668689
-modDatetime: 2024-04-28 19:03:01.668689
+pubDatetime: 2024-04-24 19:03:01.668689
+modDatetime: 2024-04-24 19:03:01.668689
 title: Q124 JBLU earnings
 slug: q124-jblu-earnings
 featured: false

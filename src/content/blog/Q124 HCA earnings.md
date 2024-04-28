@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.631361
-modDatetime: 2024-04-28 19:03:01.631361
+pubDatetime: 2024-04-27 19:03:01.631361
+modDatetime: 2024-04-27 19:03:01.631361
 title: Q124 HCA earnings
 slug: q124-hca-earnings
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 18:55:45.754067
-modDatetime: 2024-04-28 18:55:45.754067
+pubDatetime: 2024-04-20 18:55:45.754067
+modDatetime: 2024-04-20 18:55:45.754067
 title: Q124 DAL earnings
 slug: Q124-dal-earnings
 featured: false

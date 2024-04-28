@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.622358
-modDatetime: 2024-04-28 19:03:01.622358
+pubDatetime: 2024-04-27 19:03:01.622358
+modDatetime: 2024-04-27 19:03:01.622358
 title: Q124 APPF earnings
 slug: q124-appf-earnings
 featured: false

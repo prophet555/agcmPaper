@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.704697
-modDatetime: 2024-04-28 19:03:01.704697
+pubDatetime: 2024-04-20 19:03:01.704697
+modDatetime: 2024-04-20 19:03:01.704697
 title: Q124 GS earnings
 slug: q124-gs-earnings
 featured: false

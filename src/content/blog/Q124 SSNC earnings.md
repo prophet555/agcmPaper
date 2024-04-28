@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.637362
-modDatetime: 2024-04-28 19:03:01.637362
+pubDatetime: 2024-04-26 19:03:01.637362
+modDatetime: 2024-04-26 19:03:01.637362
 title: Q124 SSNC earnings
 slug: q124-ssnc-earnings
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.655686
-modDatetime: 2024-04-28 19:03:01.655686
+pubDatetime: 2024-04-25 19:03:01.655686
+modDatetime: 2024-04-25 19:03:01.655686
 title: Q124 HAS earnings
 slug: q124-has-earnings
 featured: false

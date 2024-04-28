@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.632360
-modDatetime: 2024-04-28 19:03:01.632360
+pubDatetime: 2024-04-27 19:03:01.632360
+modDatetime: 2024-04-27 19:03:01.632360
 title: Q124 NWL earnings
 slug: q124-nwl-earnings
 featured: false

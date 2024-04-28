@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.662687
-modDatetime: 2024-04-28 19:03:01.662687
+pubDatetime: 2024-04-25 19:03:01.662687
+modDatetime: 2024-04-25 19:03:01.662687
 title: Q124 TSLA earnings
 slug: q124-tsla-earnings
 featured: false

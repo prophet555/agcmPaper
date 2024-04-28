@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.627359
-modDatetime: 2024-04-28 19:03:01.627359
+pubDatetime: 2024-04-27 19:03:01.627359
+modDatetime: 2024-04-27 19:03:01.627359
 title: Q124 SAIA earnings
 slug: q124-saia-earnings
 featured: false

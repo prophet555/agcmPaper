@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.643683
-modDatetime: 2024-04-28 19:03:01.643683
+pubDatetime: 2024-04-26 19:03:01.643683
+modDatetime: 2024-04-26 19:03:01.643683
 title: Q124 GILD earnings
 slug: q124-gild-earnings
 featured: false

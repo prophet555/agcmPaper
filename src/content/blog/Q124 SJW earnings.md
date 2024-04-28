@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.619358
-modDatetime: 2024-04-28 19:03:01.619358
+pubDatetime: 2024-04-27 19:03:01.619358
+modDatetime: 2024-04-27 19:03:01.619358
 title: Q124 SJW earnings
 slug: q124-sjw-earnings
 featured: false

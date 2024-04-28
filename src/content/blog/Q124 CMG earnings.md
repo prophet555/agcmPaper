@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.648685
-modDatetime: 2024-04-28 19:03:01.648685
+pubDatetime: 2024-04-25 19:03:01.648685
+modDatetime: 2024-04-25 19:03:01.648685
 title: Q124 CMG earnings
 slug: q124-cmg-earnings
 featured: false

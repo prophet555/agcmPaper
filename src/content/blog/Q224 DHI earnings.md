@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.694694
-modDatetime: 2024-04-28 19:03:01.694694
+pubDatetime: 2024-04-21 19:03:01.694694
+modDatetime: 2024-04-21 19:03:01.694694
 title: Q224 DHI earnings
 slug: q224-dhi-earnings
 featured: false

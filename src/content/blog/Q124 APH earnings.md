@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.658686
-modDatetime: 2024-04-28 19:03:01.658686
+pubDatetime: 2024-04-25 19:03:01.658686
+modDatetime: 2024-04-25 19:03:01.658686
 title: Q124 APH earnings
 slug: q124-aph-earnings
 featured: false

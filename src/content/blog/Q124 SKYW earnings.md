@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.644684
-modDatetime: 2024-04-28 19:03:01.644684
+pubDatetime: 2024-04-26 19:03:01.644684
+modDatetime: 2024-04-26 19:03:01.644684
 title: Q124 SKYW earnings
 slug: q124-skyw-earnings
 featured: false

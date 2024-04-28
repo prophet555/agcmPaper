@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.699695
-modDatetime: 2024-04-28 19:03:01.699695
+pubDatetime: 2024-04-20 19:03:01.699695
+modDatetime: 2024-04-20 19:03:01.699695
 title: Q124 C citigroup earnings
 slug: q124-c-citigroup-earnings
 featured: false

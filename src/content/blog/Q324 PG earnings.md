@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.690694
-modDatetime: 2024-04-28 19:03:01.690694
+pubDatetime: 2024-04-21 19:03:01.690694
+modDatetime: 2024-04-21 19:03:01.690694
 title: Q324 PG earnings
 slug: q324-pg-earnings
 featured: false

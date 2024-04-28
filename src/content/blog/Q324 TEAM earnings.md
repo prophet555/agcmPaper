@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.642683
-modDatetime: 2024-04-28 19:03:01.642683
+pubDatetime: 2024-04-26 19:03:01.642683
+modDatetime: 2024-04-26 19:03:01.642683
 title: Q324 TEAM earnings
 slug: q324-team-earnings
 featured: false

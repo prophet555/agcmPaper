@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.628360
-modDatetime: 2024-04-28 19:03:01.628360
+pubDatetime: 2024-04-27 19:03:01.628360
+modDatetime: 2024-04-27 19:03:01.628360
 title: Q124 LYB earnings
 slug: q124-lyb-earnings
 featured: false

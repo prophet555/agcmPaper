@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.650685
-modDatetime: 2024-04-28 19:03:01.650685
+pubDatetime: 2024-04-25 19:03:01.650685
+modDatetime: 2024-04-25 19:03:01.650685
 title: Q124 META earnings
 slug: q124-meta-earnings
 featured: false

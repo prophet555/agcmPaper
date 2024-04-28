@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.709697
-modDatetime: 2024-04-28 19:03:01.709697
+pubDatetime: 2024-04-20 19:03:01.709697
+modDatetime: 2024-04-20 19:03:01.709697
 title: Q124 JPM earnings
 slug: q124-jpm-earnings
 featured: false

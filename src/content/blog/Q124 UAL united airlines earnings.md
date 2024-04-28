@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.663687
-modDatetime: 2024-04-28 19:03:01.663687
+pubDatetime: 2024-04-21 19:03:01.663687
+modDatetime: 2024-04-21 19:03:01.663687
 title: Q124 UAL united airlines earnings
 slug: q124-ual-united-airlines-earnings
 featured: false

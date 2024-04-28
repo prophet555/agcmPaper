@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.638362
-modDatetime: 2024-04-28 19:03:01.638362
+pubDatetime: 2024-04-26 19:03:01.638362
+modDatetime: 2024-04-26 19:03:01.638362
 title: Q124 COLM earnings
 slug: q124-colm-earnings
 featured: false

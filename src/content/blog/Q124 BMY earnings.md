@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.647684
-modDatetime: 2024-04-28 19:03:01.647684
+pubDatetime: 2024-04-26 19:03:01.647684
+modDatetime: 2024-04-26 19:03:01.647684
 title: Q124 BMY earnings
 slug: q124-bmy-earnings
 featured: false

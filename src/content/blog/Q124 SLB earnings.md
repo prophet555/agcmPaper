@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.673689
-modDatetime: 2024-04-28 19:03:01.673689
+pubDatetime: 2024-04-21 19:03:01.673689
+modDatetime: 2024-04-21 19:03:01.673689
 title: Q124 SLB earnings
 slug: q124-slb-earnings
 featured: false

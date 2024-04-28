@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.660686
-modDatetime: 2024-04-28 19:03:01.660686
+pubDatetime: 2024-04-25 19:03:01.660686
+modDatetime: 2024-04-25 19:03:01.660686
 title: Q124 TDY earnings
 slug: q124-tdy-teledyne-earnings
 featured: false

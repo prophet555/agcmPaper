@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.703697
-modDatetime: 2024-04-28 19:03:01.703697
+pubDatetime: 2024-04-20 19:03:01.703697
+modDatetime: 2024-04-20 19:03:01.703697
 title: Q124 IBKR earnings
 slug: q124-ibkr-earnings
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.702696
-modDatetime: 2024-04-28 19:03:01.702696
+pubDatetime: 2024-04-20 19:03:01.702696
+modDatetime: 2024-04-20 19:03:01.702696
 title: Q124 OMC earnings
 slug: q124-omc-earnings
 featured: false
