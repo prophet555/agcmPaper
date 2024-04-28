@@ -1,5 +1,4 @@
 ---
-
 author: mike
 
 pubDatetime: '2024-04-20'
@@ -25,7 +24,6 @@ tags:
   - streaming
 
 description: Earnings summary for Netflix Q124
-
 ---
 
 ### Earnings Results
