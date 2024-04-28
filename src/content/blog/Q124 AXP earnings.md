@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.716241
-modDatetime: 2024-04-28 19:03:01.716241
+pubDatetime: 2024-04-20 19:03:01.716241
+modDatetime: 2024-04-20 19:03:01.716241
 title: Q124 AXP earnings
 slug: q124-axp-earnings
 featured: false

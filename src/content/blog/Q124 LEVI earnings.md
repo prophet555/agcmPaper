@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.714240
-modDatetime: 2024-04-28 19:03:01.714240
+pubDatetime: 2024-04-20 19:03:01.714240
+modDatetime: 2024-04-20 19:03:01.714240
 title: Q124 LEVI earnings
 slug: q124-levi-earnings
 featured: false

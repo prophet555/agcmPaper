@@ -1,6 +1,6 @@
 ---
 author: mike
-pubDatetime: 2024-04-26 16:56:49.134057
+pubDatetime: 2024-04-20 16:56:49.134057
 modDatetime:
 title: 4Q23 PVH corp earnings
 slug: 4q23-pvh-corp-earnings

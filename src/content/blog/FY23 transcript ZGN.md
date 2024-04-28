@@ -1,7 +1,7 @@
 ---
 author: mike
-pubDatetime: 2024-04-28 19:03:01.618357
-modDatetime: 2024-04-28 19:03:01.618357
+pubDatetime: 2024-04-14 19:03:01.618357
+modDatetime: 2024-04-14 19:03:01.618357
 title: FY23 ZGN earnings
 slug: fy23-transcript-zgn
 featured: false
