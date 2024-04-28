@@ -9,6 +9,8 @@ ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2
 tags:
   - small-caps
   - ASX
+  - beauty
+  - e-commerce
 description: Recent earnings and takeover interest creates a compelling opportunity.  30m in cash and 120m market cap.
 ---
 
