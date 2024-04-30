@@ -9,6 +9,8 @@ ogImage: /assets/images/250_250.png
 tags:
   - transcripts
   - earnings
+  - media
+  - streaming
 description: Earnings summary for Paramount
 ---
 ### Earnings Results

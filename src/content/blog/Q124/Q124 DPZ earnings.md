@@ -9,6 +9,7 @@ ogImage: /assets/images/250_250.png
 tags:
   - transcripts
   - earnings
+  - restaurants
 description: Earnings summary for Dominos
 ---
 ### Earnings Results
