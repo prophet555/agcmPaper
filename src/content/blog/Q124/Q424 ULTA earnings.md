@@ -1,6 +1,5 @@
 ---
-author:
-  - mike
+author: mike
 pubDatetime: 2024-03-14T10:46:43
 modDatetime: 
 title: Q424 ULTA earnings

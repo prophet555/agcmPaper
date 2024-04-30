@@ -1,6 +1,5 @@
 ---
-author:
-  - mike
+author: mike
 pubDatetime: 2024-03-11T10:48:09
 modDatetime: 
 title: Q424 ASAN earnings
