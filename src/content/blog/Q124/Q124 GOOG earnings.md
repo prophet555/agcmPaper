@@ -1,6 +1,6 @@
 ---
 author: mike
-pubDatetime: 2024-04-30 19:03:01.626359
+pubDatetime: 2024-04-30 00:03:01.626359
 modDatetime: 
 title: Q124 GOOG earnings
 slug: q124-goog-earnings

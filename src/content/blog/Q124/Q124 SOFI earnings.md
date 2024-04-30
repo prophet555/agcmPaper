@@ -1,6 +1,6 @@
 ---
 author: mike
-pubDatetime: 2024-04-30 09:38:43.969000
+pubDatetime: 2024-04-30 00:38:43.969000
 modDatetime: 
 title: Q124 SOFI earnings
 slug: q124-sofi-earnings
