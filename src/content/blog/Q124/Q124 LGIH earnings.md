@@ -9,7 +9,7 @@ ogImage: /assets/images/250_250.png
 tags:
   - transcripts
   - earnings
-  - homwbuilders
+  - homebuilders
 description: Earnings summary for LGI Homes
 ---
 ### Earnings Results

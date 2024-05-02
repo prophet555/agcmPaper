@@ -9,6 +9,7 @@ ogImage: /assets/images/250_250.png
 tags:
   - transcripts
   - earnings
+  - utilities
 description: Earnings summary for Public Services Enterprise Group
 ---
 ### Earnings Results
