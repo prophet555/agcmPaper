@@ -9,6 +9,7 @@ ogImage: /assets/images/250_250.png
 tags:
   - transcripts
   - earnings
+  - construction
 description: Earnings summary for WillScot Mobile
 ---
 ## Strategic Initiatives and Operational Highlights
