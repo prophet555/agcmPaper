@@ -1,6 +1,5 @@
 ---
-author:
-  - mike
+author: mike
 pubDatetime: 2024-05-07 14:30:57.625000
 modDatetime: 
 title: Q224 TSN earnings

@@ -1,6 +1,5 @@
 ---
-author:
-  - mike
+author: mike
 pubDatetime: 2024-05-07 14:02:53.578000
 modDatetime: 
 title: Q124 PLTR earnings

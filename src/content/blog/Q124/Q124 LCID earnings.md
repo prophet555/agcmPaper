@@ -1,6 +1,5 @@
 ---
-author:
-  - mike
+author: mike
 pubDatetime: 2024-05-07 14:37:17.900000
 modDatetime: 
 title: Q124 LCID earnings

@@ -1,6 +1,5 @@
 ---
-author:
-  - mike
+author: mike
 pubDatetime: 2024-05-07 14:34:20.384000
 modDatetime: 
 title: Q124 THS earnings

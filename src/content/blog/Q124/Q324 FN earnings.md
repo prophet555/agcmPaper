@@ -1,6 +1,5 @@
 ---
-author:
-  - mike
+author: mike
 pubDatetime: 2024-05-07 14:39:18.550000
 modDatetime: 
 title: Q324 FN earnings

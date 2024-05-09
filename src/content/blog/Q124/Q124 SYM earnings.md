@@ -1,6 +1,5 @@
 ---
-author:
-  - mike
+author: mike
 pubDatetime: 2024-05-07 14:19:54.265000
 modDatetime: 
 title: Q124 SYM earnings

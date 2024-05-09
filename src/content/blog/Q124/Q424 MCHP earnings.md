@@ -1,6 +1,5 @@
 ---
-author:
-  - mike
+author: mike
 pubDatetime: 2024-05-07 14:04:53.056000
 modDatetime: 
 title: Q424 MCHP earnings
