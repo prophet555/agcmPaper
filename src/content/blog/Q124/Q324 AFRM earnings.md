@@ -9,19 +9,9 @@ ogImage: /assets/images/250_250.png
 tags:
   - transcripts
   - earnings
+  - BNPL
 description: Earnings summary for Affirm
 ---
-## Company Highlights
-
-- Affirm's earnings call for Q3 2024 is noted for trying a new format with a premarket open, indicating a live event in New York. 
-- Max Levchin highlights another excellent quarter for Affirm without providing specific details before proceeding to the Q&A segment. 
-
-## Q&A Session
-
-- The call transitions directly to the Q&A session to address questions from participants. 
-
-# Question and Answer
-
 ## Impact of Pricing Initiatives on Volume Growth
 
 ### Question

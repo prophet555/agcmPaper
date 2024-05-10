@@ -12,17 +12,7 @@ tags:
   - ride-share
 description: Earnings summary for Uber
 ---
-## Uber Q1 2024 Earnings Call Summary
 
-### Introduction
-
-- Uber's Q1 2024 Earnings Presentation was introduced by Deepa Subramanian. 
-- Participants included CEO Dara Khosrowshahi and CFO Prashanth Mahendra-Rajah. 
-
-### Financial Measures and Forward-Looking Statements
-
-- The call presented both GAAP and non-GAAP financial measures. 
-- Forward-looking statements were made and investors were cautioned not to place undue reliance on them. 
 
 ### Performance Highlights
 
