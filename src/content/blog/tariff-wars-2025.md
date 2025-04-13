@@ -2,7 +2,7 @@
 author: mike
 pubDatetime: 2025-04-12T02:13:56.891Z
 modDatetime:
-title: tariff wars 2025 and stock market response factions
+title: Tariff Talks and Trade Tactics - Decoding Global Negotiations
 slug: tariff-war-2025
 featured: true
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
